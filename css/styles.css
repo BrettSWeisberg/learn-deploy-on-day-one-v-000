@@ -163,6 +163,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#brett-weisberg-card {
+  background-image: url("https://www.facebook.com/photo.php?fbid=3598188748415&set=a.1354783824694.2058155.1084381108&type=3&theater");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
